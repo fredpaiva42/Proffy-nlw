@@ -15,7 +15,7 @@
 ## 📝Sobre:
 Este é um projeto desenvolvido durante a Next Level Week, realizada pela Rocketseat(https://rocketseat.com.br/) durante os dias 3 a 9 de Agosto de 2020.
 
-O projeto simula uma aplicação que possiblita que você diponibilize as matérias que deseja ensinar e seus horários e preços, com quem quer aprender. E também é possivel como aluno procurar aquilo que você deseja aprender e no melhor horário para você e entrar em contato diereto com o professor.
+O projeto simula uma aplicação que possiblita que você diponibilize as matérias que deseja ensinar e seus horários e preços, com quem quer aprender. E também é possivel como aluno procurar aquilo que você deseja aprender e no melhor horário para você, com a funcionalidade de entrar em contato diereto com o professor.
 
 :rocket: **Rocketseat** - [Next Level Week](https://rocketseat.com.br/)
 
