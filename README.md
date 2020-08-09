@@ -1,7 +1,7 @@
 # Proffy-nlw
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667>
+  <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667">
 </p>
 
 <p align="center">Este repositório tem por objetivo armazenar as informações de tudo que pude aprender durante a Next Level Week</p> 
@@ -13,7 +13,7 @@
 </p>  
 
 ## 📝Sobre:
-Este é um projeto desenvolvido durante a Next Level Week, realizada pela @Rocketseat durante os dias 3 a 9 de Agosto de 2020.
+Este é um projeto desenvolvido durante a Next Level Week, realizada pela Rocketseat(https://rocketseat.com.br/) durante os dias 3 a 9 de Agosto de 2020.
 
 O projeto simula uma aplicação que possiblita que você diponibilize as matérias que deseja ensinar e seus horários e preços, com quem quer aprender. E também é possivel como aluno procurar aquilo que você deseja aprender e no melhor horário para você e entrar em contato diereto com o professor.
 
@@ -34,4 +34,6 @@ As mais recentes ferramentas utilizadas no LaunchBase:
 
 ## :desktop_computer:  Preview:
 
-https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7abb94af57b5b47e4bef03dd6e5ff859263b023c/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f66696e616c5f313539363738313933375f75726741556f50432d2e6a7067">
+</p>
